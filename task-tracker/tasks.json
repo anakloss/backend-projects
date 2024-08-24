@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Estudiar Ingles",
+        "status": "done",
+        "createdAt": "2024-08-22T23:09:14.868538",
+        "updatedAt": "2024-08-22T23:12:38.045317"
+    },
+    {
+        "id": 3,
+        "description": "Leer un libro",
+        "status": "todo",
+        "createdAt": "2024-08-22T23:10:32.675825",
+        "updatedAt": "2024-08-22T23:10:32.675825"
+    },
+    {
+        "id": 4,
+        "description": "Buy fruits and vegetables",
+        "status": "in-progress",
+        "createdAt": "2024-08-23T22:10:44.820501",
+        "updatedAt": "2024-08-23T22:15:35.888020"
+    }
+]
