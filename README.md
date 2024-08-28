@@ -7,3 +7,4 @@ Solution for each project is in the respective folder. Each project folder conta
 You can find the list of beginner projects [here](https://roadmap.sh/backend/projects).
 
 * [Task Tracker](https://roadmap.sh/projects/task-tracker)
+* [Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)
